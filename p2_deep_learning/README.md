@@ -32,7 +32,10 @@ numpy==1.16.2
             Use a mapping of categories to real names: python predict.py input checkpoint --category_names cat_to_name.json
             Use GPU for inference: python predict.py input checkpoint --gpu
 
+## Acknowledgement
 
-
+Parts of these code is based on:
+- Udacity Introduction to Pytorch Tutorials 
+- Transfer Learning Tutorial provided by Sasank Chilamkurthy, https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 
