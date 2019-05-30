@@ -1,17 +1,17 @@
-# AI Programming with Python Project
+# Image Classifier
 
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, I have first developed code for an image classifier built with PyTorch (see Jupyter Notebook file), then converted it into a command line application.
+In this project, I have first developed code for an image classifier built with PyTorch (see [Jupyter Notebook](https://github.com/k-bosko/Image-Classifier/blob/master/Image_Classifier_Project.ipynb)), then converted it into a command line application .
 
 ## Data
-Image Classifier predicts 102 flower categories. The full dataset can be found here:
-http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
+Image Classifier predicts 102 flower categories. The full dataset can be found [here]:(http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 
 ## Requirements
-torchvision==0.2.1
-requests==2.19.1
-torch==1.0.1
-Pillow==5.4.1
-numpy==1.16.2 
+Python 3.7.2
+* torchvision==0.2.1
+* requests==2.19.1
+* torch==1.0.1
+* Pillow==5.4.1
+* numpy==1.16.2 
 
 ## Specifications for command line app
 
@@ -36,6 +36,6 @@ numpy==1.16.2
 
 Parts of these code is based on:
 - Udacity Introduction to Pytorch Tutorials 
-- Transfer Learning Tutorial provided by Sasank Chilamkurthy, https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+- [Transfer Learning Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) provided by Sasank Chilamkurthy 
 
 
