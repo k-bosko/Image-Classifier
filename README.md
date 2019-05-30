@@ -3,7 +3,8 @@
 In this project, I have first developed code for an image classifier built with PyTorch (see [Jupyter Notebook](https://github.com/k-bosko/Image-Classifier/blob/master/Image_Classifier_Project.ipynb)), then converted it into a command line application .
 
 ## Data
-Image Classifier predicts 102 flower categories. The full dataset can be found [here]:(http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
+Image Classifier predicts 102 flower categories. The full dataset can be found [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
+Due to the size restrictions, the dataset is not posted here. You will need to download it separately to run the classifier.
 
 ## Requirements
 Python 3.7.2
